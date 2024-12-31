@@ -1,0 +1,507 @@
+.image1 {
+  width: 100%;
+  height: 800px;
+}
+
+.image2 {
+  width: 100%;
+  height: 620px;
+}
+
+.image3 {
+  width: 100%;
+  height: 620px;
+}
+
+.nav-ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+.nav-ul li a {
+  color: white;
+  padding: 5px;
+  text-decoration: none;
+}
+
+.nav-ul {
+  padding: 5px;
+  margin: 0;
+  background-color: silver;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding-left: 500px;
+  color: white;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.centered1 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: orangered;
+  padding-left: 750px;
+  font-size: 40px;
+  padding-bottom: 50px;
+  font-weight: bold;
+}
+
+.centered3 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  padding-left: 750px;
+  padding-top: 155px;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+
+.centered7 {
+  bottom: 5px;
+  padding-right: 470px;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: underline;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 350px;
+  left: 16px;
+  padding-left: 290px;
+  font-family: "Lucida Console", "Courier New";
+  font-weight: bold;
+  color: black;
+  font-size: 40px;
+}
+
+.bottom-left1 {
+  position: absolute;
+  bottom: 250px;
+  left: 16px;
+  padding-left: 290px;
+  font-family: "Lucida Console", "Courier New";
+  font-weight: bold;
+  color: black;
+  font-size: 40px;
+}
+
+.bottom-left2 {
+  position: absolute;
+  bottom: 150px;
+  left: 16px;
+  padding-left: 290px;
+  font-family: "Lucida Console", "Courier New";
+  font-weight: bold;
+  color: black;
+  font-size: 40px;
+}
+
+.bottom-left3 {
+  position: absolute;
+  bottom: 50px;
+  left: 16px;
+  padding-left: 290px;
+  font-family: "Lucida Console", "Courier New";
+  font-weight: bold;
+  color: black;
+  font-size: 40px;
+}
+
+.bottom-left4 {
+  position: absolute;
+  bottom: 350px;
+  left: 500px;
+  padding-left: 290px;
+  font-family: "Lucida Console", "Courier New";
+  font-weight: bold;
+  color: black;
+  font-size: 40px;
+}
+
+.bottom-left5 {
+  position: absolute;
+  bottom: 250px;
+  left: 500px;
+  padding-left: 290px;
+  font-family: "Lucida Console", "Courier New";
+  font-weight: bold;
+  color: black;
+  font-size: 40px;
+}
+
+
+.contact {
+  position: absolute;
+  top: 70px;
+  right: 300px;
+  color: white;
+  font-size: 40px;
+  font-family: Cursive;
+  font-weight: bold;
+}
+
+.number {
+  position: absolute;
+  bottom: 60px;
+  right: 150px;
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.mail {
+  position: absolute;
+  bottom: 30px;
+  right: 65px;
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.insta {
+  color: white;
+  font-size: 20px;
+  font-style: italic;
+  position: absolute;
+  bottom: 0px;
+  right: 167px;
+}
+
+.nature {
+  position: absolute;
+  bottom: 8px;
+  left: 50px;
+  font-family: Brush Script MT, Brush Script Std, cursive;
+  font-size: 70px;
+  color: white;
+}
+
+.top-right5 {
+  position: absolute;
+  top: 130px;
+  right: 200px;
+}
+
+.inputBox {
+  display: block;
+  margin: 25px;
+  padding: 7px;
+  width: 220px;
+  border: 1px solid white;
+  border-radius: 9px;
+  height: 30px;
+  text-align: center;
+  font-size: 20px;
+}
+
+::placeholder {
+  color: black;
+  opacity: 1;
+}
+
+.top-dial {
+  position: absolute;
+  top: 210px;
+  right: 150px;
+  color: white;
+  font-size: 50px;
+}
+
+.top text {
+  position: absolute;
+  top: 210px;
+  right: 150px;
+}
+
+.centered-one {
+  position: absolute;
+  top: 37%;
+  left: 56.8%;
+  transform: rotate(270deg);
+  color: white;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.top-lefttext {
+  position: absolute;
+  top: 55px;
+  left: 5px;
+  font-size: small;
+}
+
+.top-lefttext1 {
+  position: absolute;
+  top: 20px;
+  left: 5px;
+  color: green;
+  font-size: 30px;
+}
+
+.fonting {
+  font-family: Cursive;
+}
+
+.test-left {
+  position: absolute;
+  bottom: 34px;
+  left: 170px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.testcentered-one {
+  position: absolute;
+  top: 50%;
+  left: 90%;
+  transform: rotate(90deg);
+  font-size: 22px;
+  display: inline-block;
+  font-weight: Bold;
+  font-family: Cursive;
+}
+
+.testcentered-two {
+  position: absolute;
+  bottom: 250px;
+  left: 1100px;
+  transform: rotate(90deg);
+  font-family: Cursive;
+  font-size: 16px;
+}
+
+.bottom-right1 {
+  position: absolute;
+  bottom: 270px;
+  right: 80px;
+  color: white;
+  font-size: 22px;
+}
+
+.bottom-right2 {
+  position: absolute;
+  bottom: 240px;
+  right: 50px;
+  color: white;
+  background-color: green;
+  font-size: 22px;
+  border-radius: 10px;
+}
+
+.abbottom-right {
+  position: absolute;
+  bottom: 500px;
+  right: 230px;
+  color: white;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.abbottom-right1 {
+  position: absolute;
+  bottom: 250px;
+  right: 30px;
+  color: white;
+  font-size: 15px;
+  font-family: italic;
+}
+
+.abbottom-right3 {
+  position: absolute;
+  bottom: 8px;
+  right: 430px;
+  background-color: white;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: 15px;
+  width: 100px;
+  height: 40px;
+
+}
+
+.abbottom-right4 {
+  position: absolute;
+  bottom: 8px;
+  right: 230px;
+  background-color: white;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: none;
+  width: 150px;
+  height: 40px;
+  border-radius: 15px;
+
+}
+
+.abbottom-right5 {
+  position: absolute;
+  bottom: 8px;
+  right: 40px;
+  background-color: white;
+  font-size: 25px;
+  font-weight: bold;
+  border-radius: none;
+  width: 140px;
+  height: 40px;
+  border-radius: 15px;
+}
+
+.bobottom-left {
+  position: absolute;
+  bottom: 140px;
+  left: 30px;
+  font-size: 20px;
+}
+
+.bobottom-lef2 {
+  position: absolute;
+  bottom: 450px;
+  left: 50px;
+  font-size: 65px;
+  font-weight: bold;
+}
+
+.bobottom-lef3 {
+  position: absolute;
+  bottom: 380px;
+  left: 100px;
+  font-size: 27px;
+}
+
+.bobottom-lef4 {
+  position: absolute;
+  bottom: 330px;
+  left: 100px;
+  font-size: 27px;
+}
+
+.bobottom-lef5 {
+  position: absolute;
+  bottom: 280px;
+  left: 100px;
+  font-size: 27px;
+}
+
+.fabottom-left {
+  position: absolute;
+  bottom: 530px;
+  left: 50px;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.fabottom-left1 {
+  position: absolute;
+  bottom: 180px;
+  left: 250px;
+  font-size: 40px;
+  color: white;
+  font-family: Cursive;
+  font-weight: bold;
+}
+
+.fabottom-left2 {
+  position: absolute;
+  bottom: 150px;
+  left: 245px;
+  font-size: 20px;
+  color: white;
+}
+
+.fabottom-left3 {
+  position: absolute;
+  bottom: 160px;
+  left: 950px;
+  font-size: 40px;
+  color: white;
+  font-family: Cursive;
+  font-weight: bold;
+}
+
+.fabottom-left4 {
+  position: absolute;
+  bottom: 130px;
+  left: 945px;
+  font-size: 20px;
+  color: white;
+}
+
+.fabottom-left5 {
+  position: absolute;
+  bottom: 8px;
+  left: 550px;
+  color: Black;
+  font-size: 30px;
+  font-weight: Bold;
+  background-color: white;
+}
+
+.factop-right {
+  position: absolute;
+  top: 150px;
+  right: 900px;
+  font-size: 40px;
+  font-weight: Bold;
+  text-decoration: underline;
+}
+
+.factop-right1{
+  position: absolute;
+  top: 250px;
+  right: 1000px;
+  font-size: 30px;
+  color: black;
+  background-color: greenyellow;
+}
+
+.factop-right2{
+  position: absolute;
+  top: 320px;
+  right: 890px;
+  font-size: 30px;
+  color: black;
+  background-color: greenyellow;
+}
+
+.factop-right3{
+  position: absolute;
+  top: 390px;
+  right: 875px;
+  font-size: 30px;
+  color: black;
+  background-color: greenyellow;
+}
+
+.factop-right4{
+  position: absolute;
+  top: 460px;
+  right: 985px;
+  font-size: 30px;
+  color: black;
+  background-color: greenyellow;
+}
+
+.factop-right5{
+  position: absolute;
+  top: 530px;
+  right: 1029px;
+  font-size: 30px;
+  color: black;
+  background-color: greenyellow;
+}
